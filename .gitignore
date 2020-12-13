@@ -4,3 +4,4 @@
 build
 out
 /src/main/java/com/mazino/springboot/Test.java
+application-real-oauth.properties
